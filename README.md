@@ -12,7 +12,7 @@
 
 #### PostgreSQL
 **Pros**
-- JSON as a datatype, and it is indexable
+- JSON as a datatype, and it is indexable [Using JSON in PostgreSQL](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
 - 
 
 **Cons**
