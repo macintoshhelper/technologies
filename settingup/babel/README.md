@@ -10,14 +10,14 @@
 1. Add this task to gulpfile.js:
     ```js
     gulp.task('babel', () => {
-      gulp.src('client-src/js/**/*.js')
+      gulp.src('client-src/js/**/*.js/* Change this to ES6 input */')
         .pipe(sourcemaps.init())
         .pipe(babel({
           presets: ['env'],
         }))
         .pipe(concat('all.js'))
         .pipe(sourcemaps.write('.'))
-        .pipe(gulp.dest('public/assets/js'));
+        .pipe(gulp.dest('public/assets/js/* Change this to ES5 output */'));
     });
     ```
 1. Run this task in the bottom of the file:
