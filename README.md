@@ -12,11 +12,11 @@ Storing permanent data.
 
 #### PostgreSQL
 
-**Pros**
+Pros
 - JSON as a datatype, and it is indexable [Using JSON in PostgreSQL](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
 - More SQL compliant, might have more features
 
-**Cons**
+Cons
 - SQL compliancy may make it slightly slower
 - Missing some useful MySQL things like `ON DUPLICATE KEY UPDATE` - there are alternatives though
 
