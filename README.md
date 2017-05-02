@@ -1,5 +1,5 @@
 # technologies
-List of useful* technologies. Find pros, cons and use cases for the technologies. There are READMEs on getting started (setup) with the technologies too
+List of useful\* technologies. Find pros, cons and use cases for the technologies. There are READMEs on getting started (setup) with the technologies too
 
 ## FRONT-END
 Technologies that help with displaying things in the browser
@@ -20,7 +20,13 @@ Cons
 > **Sub Technologies**
 ##### Redux
 
+
 #### Angular
+JavaScript framework developed by Google.
+
+Pros
+
+Cons
 
 #### Polymer
 JavaScript library for building web apps using Web Components giving some syntactic sugar and polyfills (webcomponentsjs). 
@@ -45,12 +51,15 @@ Pros
 
 Cons
 
+---
+
 > **Frameworks**
 
 ##### Express
 
 ##### Hapi
 
+---
 
 #### PHP
 
@@ -70,6 +79,12 @@ Language developed by Google
 ---
 
 #### Apache
+Most popular web server. 
+
+Pros
+- Existed for a long time
+
+Cons
 
 #### Nginx
 Fast web server often used for reverse proxies.
@@ -104,6 +119,7 @@ Cons
 Pros
 - Widely used
 - Proven to scale well
+- MySQL 5.7 introduced a JSON data type
 
 Cons
 - Semi-dead as an open source project? Development seems to happen at MariaDB, but it has to be MySQL compatible
@@ -114,6 +130,8 @@ Cons
 JSON-like database storage system. 
 
 Pros
+- Simple to use
+- No need to set a schema in advance
 
 Cons
 - Default security config allows anyone access to the database (use iptables firewall! + secure before goes live)
