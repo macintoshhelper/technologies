@@ -17,6 +17,9 @@ Cons
 - Virtual DOM 
 - Slightly restrictive license according to some people. Shouldn't be an issue, the second revision of the license gives Facebook the right to revoke the React license if someone chooses to bring a patent lawsuit against Facebook, which appears to be purely a defensive thing. Original license was a bit controversial due to the vague interpretation.
 
+> **Sub Technologies**
+##### Redux
+
 #### Angular
 
 #### Polymer
@@ -42,7 +45,7 @@ Pros
 
 Cons
 
-> Frameworks
+> **Frameworks**
 
 ##### Express
 
@@ -59,8 +62,24 @@ Cons
 Very solid and fast language.
 
 #### Python
+Good language - maybe useful for prototyping.
 
-#### Go
+#### Go
+Language developed by Google
+
+---
+
+#### Apache
+
+#### Nginx
+Fast web server often used for reverse proxies.
+
+Pros
+- Can use Lua to write full-featured web servers
+- Can create C modules for high performance
+
+Cons
+
 
 
 ## DATABASES
