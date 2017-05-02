@@ -27,3 +27,8 @@
         ```js
         gulp.start('example-task');
         ```
+1. Add these scripts to package.json and run `npm run build` to compile:
+    ```json
+    "build": "node gulpfile.js",
+    "postinstall": "node gulpfile.js",
+    ```
