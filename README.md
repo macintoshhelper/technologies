@@ -37,10 +37,16 @@ Pros
 
 Cons
 - No virtual DOM. Made from the perspective that the DOM should be embraced and speed will improve over time
+- Requires polyfills for Web Components which may be bad for performance in non-compliant browsers
 
 #### Web Components
+Part of the web standard.
 
+Pros
 
+Cons
+- Limited browser support, so polyfills are required for some browsers with potentially reduced performance.
+- Shadow DOM polyfill for non-compliant browsers is limited - (lookup Shadow DOM vs Shady DOM)
 
 ## BACK-END
 Server-related technologies
@@ -138,5 +144,15 @@ Cons
 - Has had issues with writes being acknowledged but being rollbacked.
 
 #### CouchDB
+
+
+## TEMPLATING
+
+## Handlebars
+
+Pros
+
+Cons
+
 
 \* web for now
