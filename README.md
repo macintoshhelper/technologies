@@ -64,6 +64,8 @@ Cons
 JavaScript library for building web apps using Web Components giving some syntactic sugar and polyfills (webcomponentsjs). 
 Covers Material Design + Core and Paper elements
 
+[Getting Started with Polymer](https://github.com/macintoshhelper/learn-polymer)
+
 Pros
 - Should be compatible with other frameworks, and since Web Components is part of the web standards now, there shouldn't be much framework lock-in.
 
