@@ -1,5 +1,5 @@
 # technologies
-List of useful[\*](#disclaimers) technologies. Find pros, cons and use cases for the technologies. There are READMEs on getting started (setup) with the technologies too
+Master reference for finding and learning any software technology. Find pros, cons, use cases for a technology and if you wish to learn said technology - check out the related Getting Started guide.
 
 ## INDEX
 - [Front-end](#front-end)
@@ -27,6 +27,9 @@ List of useful[\*](#disclaimers) technologies. Find pros, cons and use cases for
   - __Servers__
     - [Apache](#apache)
     - [Nginx](#nginx)
+    
+## WEB TECHNOLOGIES
+---
 
 ## FRONT-END
 Technologies that help with displaying things in the browser
@@ -210,6 +213,9 @@ Pros
 
 Cons
 
+## NATIVE APP TECHNOLOGIES
+
+## HARDWARE TECHNOLOGIES
 
 ##### Disclaimers
-\* web for now
+\* placeholder :)
