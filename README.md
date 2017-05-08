@@ -76,6 +76,8 @@ Cons
 #### Web Components
 Part of the web standard.
 
+[Getting Started with Web Components](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w) - Google Developers YouTube playlist
+
 Pros
 
 Cons
