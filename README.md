@@ -214,8 +214,10 @@ Pros
 Cons
 
 ## NATIVE APP TECHNOLOGIES
+---
 
 ## HARDWARE TECHNOLOGIES
+---
 
 ##### Disclaimers
 \* placeholder :)
