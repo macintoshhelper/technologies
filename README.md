@@ -3,11 +3,16 @@ List of useful[\*](#disclaimers) technologies. Find pros, cons and use cases for
 
 ## INDEX
 - [Front-end](#front-end)
-  - [React](#react)
-    - [Redux](#redux)
-  - [AngularJS](#angular)
-  - [Polymer](#polymer)
-  - [Web Components](#web-components)
+  - __JavaScript__
+    - [React](#react)
+      - [Redux](#redux)
+    - [AngularJS](#angular)
+    - [Polymer](#polymer)
+    - [Web Components](#web-components)
+  - __HTML__
+  - __CSS__
+    - [SASS](#sass)
+    - [LESS](#less)
 - [Back-end](#back-end)
   - __Languages__
     - [NodeJS](#nodejs)
@@ -25,6 +30,8 @@ List of useful[\*](#disclaimers) technologies. Find pros, cons and use cases for
 
 ## FRONT-END
 Technologies that help with displaying things in the browser
+
+### JavaScript
 
 #### React
 JavaScript library for building user interfaces. 
@@ -69,6 +76,18 @@ Pros
 Cons
 - Limited browser support, so polyfills are required for some browsers with potentially reduced performance.
 - Shadow DOM polyfill for non-compliant browsers is limited - (lookup Shadow DOM vs Shady DOM)
+
+### HTML
+
+### CSS
+
+[Getting Started with CSS](https://github.com/macintoshhelper/learn-css)
+
+#### SASS
+
+[Getting Started with SASS](https://github.com/macintoshhelper/learn-css/sass)
+
+#### LESS
 
 ## BACK-END
 Server-related technologies
