@@ -230,7 +230,7 @@ Cons
 
 ## UNIX
 
-Because Windows doesn't get a spot here ^\_^ :P
+> Because Windows doesn't get a spot here ^\_^ :P
 ---
 
 ### Firewalls
