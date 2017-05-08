@@ -204,6 +204,14 @@ Cons
 
 #### CouchDB
 
+#### Redis
+In-memory NoSQL key/value storage system.
+
+Pros
+
+Cons
+- Default security is a bit weak (please use iptables firewall IP whitelist + enable password protection with a super long password which can't be brute forced (think 50 character minimum, 400 characters is good :) )) - anyone can connect and root a server by default...
+
 
 ## TEMPLATING
 
@@ -215,6 +223,22 @@ Cons
 
 ## NATIVE APP TECHNOLOGIES
 ---
+
+## UNIX
+Because Windows doesn't get a spot here ^\_^ :P
+---
+
+### Firewalls
+
+#### iptables
+Good firewall included with Debian and other Linux systems
+
+Pros
+- Easy to use, especially with ufw
+- Included with many Linux distros
+
+Cons
+
 
 ## HARDWARE TECHNOLOGIES
 ---
