@@ -1,6 +1,28 @@
 # technologies
 List of useful\* technologies. Find pros, cons and use cases for the technologies. There are READMEs on getting started (setup) with the technologies too
 
+## INDEX
+- [Front-end](#front-end)
+  - [React](#react)
+    - [Redux](#redux)
+  - [AngularJS](#angular)
+  - [Polymer](#polymer)
+  - [Web Components](#web-components)
+- [Back-end](#back-end)
+  - __Languages__
+  - [NodeJS](#nodejs)
+    - [Express](#express)
+    - [Hapi](#hapi)
+  - [PHP](#php)
+  - [Java](#java)
+  - [C#](#.NET)
+  - [C++)(#C++)
+  - [Python](#python)
+  - [Go](#go)
+  - __Servers__
+  - [Apache](#apache)
+  - [Nginx](#nginx)
+
 ## FRONT-END
 Technologies that help with displaying things in the browser
 
@@ -64,6 +86,14 @@ Cons
 ##### Express
 
 ##### Hapi
+Server framework for NodeJS.
+
+[Getting Started](https://github.com/macintoshhelper/learn-hapi/)
+- [Code Skeleton](https://github.com/macintoshhelper/learn-hapi/tree/master/servers)
+
+Pros
+
+Cons
 
 ---
 
@@ -95,6 +125,9 @@ Cons
 #### Nginx
 Fast web server often used for reverse proxies.
 
+[Getting Started](https://github.com/besarthoxhaj/learn-nginx)
+- [Code Skeletons/Examples](https://github.com/besarthoxhaj/learn-nginx/tree/master/configs)
+
 Pros
 - Can use Lua to write full-featured web servers
 - Can create C modules for high performance
@@ -111,7 +144,11 @@ Storing permanent data.
 
 ### Relational
 
+[Getting started with SQL](https://github.com/macintoshhelper/learn-sql/)
+
 #### PostgreSQL
+
+[Getting started with PostgreSQL](https://github.com/macintoshhelper/learn-sql/postgresql/)
 
 Pros
 - JSON as a datatype, and it is indexable [Using JSON in PostgreSQL](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
@@ -140,7 +177,7 @@ Pros
 - No need to set a schema in advance
 
 Cons
-- Default security config allows anyone access to the database (use iptables firewall! + secure before goes live)
+- Default security config allows anyone access to the database (use iptables firewall + secure before production goes live!)
 - Has had issues with writes being acknowledged but being rollbacked.
 
 #### CouchDB
