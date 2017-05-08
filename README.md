@@ -16,7 +16,7 @@ List of useful\* technologies. Find pros, cons and use cases for the technologie
   - [PHP](#php)
   - [Java](#java)
   - [C#](#.NET)
-  - [C++)(#C++)
+  - [C++](#C)
   - [Python](#python)
   - [Go](#go)
   - __Servers__
