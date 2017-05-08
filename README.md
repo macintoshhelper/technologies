@@ -1,5 +1,5 @@
 # technologies
-List of useful\* technologies. Find pros, cons and use cases for the technologies. There are READMEs on getting started (setup) with the technologies too
+List of useful[\*](#disclaimers) technologies. Find pros, cons and use cases for the technologies. There are READMEs on getting started (setup) with the technologies too
 
 ## INDEX
 - [Front-end](#front-end)
@@ -192,4 +192,5 @@ Pros
 Cons
 
 
+##### Disclaimers
 \* web for now
