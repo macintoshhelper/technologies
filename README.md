@@ -229,6 +229,7 @@ Cons
 ---
 
 ## UNIX
+
 Because Windows doesn't get a spot here ^\_^ :P
 ---
 
@@ -242,6 +243,11 @@ Pros
 - Included with many Linux distros
 
 Cons
+
+#### bash
+> Unix shell and command line language. 
+
+[Getting Started with Bash](https://github.com/macintoshhelper/learn-bash)
 
 
 ## HARDWARE TECHNOLOGIES
