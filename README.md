@@ -32,12 +32,12 @@ Master reference for finding and learning any software technology. Find pros, co
 ---
 
 ## FRONT-END
-Technologies that help with displaying things in the browser
+> Technologies that help with displaying things in the browser
 
 ### JavaScript
 
 #### React
-JavaScript library for building user interfaces. 
+> JavaScript library for building user interfaces. 
 Includes a virtual DOM which optimises DOM actions and is useful for Single Page Apps.
 
 Pros
@@ -54,14 +54,14 @@ Cons
 
 
 #### Angular
-JavaScript framework developed by Google.
+> JavaScript framework developed by Google.
 
 Pros
 
 Cons
 
 #### Polymer
-JavaScript library for building web apps using Web Components giving some syntactic sugar and polyfills (webcomponentsjs). 
+> JavaScript library for building web apps using Web Components giving some syntactic sugar and polyfills (webcomponentsjs). 
 Covers Material Design + Core and Paper elements
 
 [Getting Started with Polymer](https://github.com/macintoshhelper/learn-polymer)
@@ -74,7 +74,7 @@ Cons
 - Requires polyfills for Web Components which may be bad for performance in non-compliant browsers
 
 #### Web Components
-Part of the web standard.
+> Part of the web standard.
 
 [Getting Started with Web Components](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkA_W95NDrjdkk3dR6Jq4w) - Google Developers YouTube playlist
 
@@ -112,7 +112,7 @@ Cons
 ##### Express
 
 ##### Hapi
-Server framework for NodeJS.
+> Server framework for NodeJS.
 
 [Getting Started](https://github.com/macintoshhelper/learn-hapi/)
 - [Code Skeleton](https://github.com/macintoshhelper/learn-hapi/tree/master/servers)
@@ -130,18 +130,18 @@ Cons
 #### .NET
 
 #### C++
-Very solid and fast language.
+> Very solid and fast language.
 
 #### Python
-Good language - maybe useful for prototyping.
+> Good language - maybe useful for prototyping.
 
 #### Go
-Language developed by Google
+> Language developed by Google
 
 ---
 
 #### Apache
-Most popular web server. 
+> Most popular web server. 
 
 Pros
 - Existed for a long time
@@ -149,7 +149,7 @@ Pros
 Cons
 
 #### Nginx
-Fast web server often used for reverse proxies.
+> Fast web server often used for reverse proxies.
 
 [Getting Started](https://github.com/besarthoxhaj/learn-nginx)
 - [Code Skeletons/Examples](https://github.com/besarthoxhaj/learn-nginx/tree/master/configs)
@@ -196,7 +196,7 @@ Cons
 ### NoSQL
 
 #### MongoDB
-JSON-like database storage system. 
+> JSON-like database storage system. 
 
 Pros
 - Simple to use
@@ -209,7 +209,7 @@ Cons
 #### CouchDB
 
 #### Redis
-In-memory NoSQL key/value storage system.
+> In-memory NoSQL key/value storage system.
 
 Pros
 
@@ -235,7 +235,7 @@ Because Windows doesn't get a spot here ^\_^ :P
 ### Firewalls
 
 #### iptables
-Good firewall included with Debian and other Linux systems
+> Good firewall included with Debian and other Linux systems
 
 Pros
 - Easy to use, especially with ufw
