@@ -10,18 +10,18 @@ List of useful\* technologies. Find pros, cons and use cases for the technologie
   - [Web Components](#web-components)
 - [Back-end](#back-end)
   - __Languages__
-  - [NodeJS](#nodejs)
-    - [Express](#express)
-    - [Hapi](#hapi)
-  - [PHP](#php)
-  - [Java](#java)
-  - [C#](#.NET)
-  - [C++](#C)
-  - [Python](#python)
-  - [Go](#go)
+    - [NodeJS](#nodejs)
+      - [Express](#express)
+      - [Hapi](#hapi)
+    - [PHP](#php)
+    - [Java](#java)
+    - [C#](#.NET)
+    - [C++](#C)
+    - [Python](#python)
+    - [Go](#go)
   - __Servers__
-  - [Apache](#apache)
-  - [Nginx](#nginx)
+    - [Apache](#apache)
+    - [Nginx](#nginx)
 
 ## FRONT-END
 Technologies that help with displaying things in the browser
