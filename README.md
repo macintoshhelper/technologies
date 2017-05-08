@@ -85,7 +85,7 @@ Cons
 
 #### SASS
 
-[Getting Started with SASS](https://github.com/macintoshhelper/learn-css/sass)
+[Getting Started with SASS](https://github.com/macintoshhelper/learn-css/tree/master/sass)
 
 #### LESS
 
