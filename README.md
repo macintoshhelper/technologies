@@ -21,7 +21,7 @@ Master reference for finding and learning any software technology. Find pros, co
     - [PHP](#php)
     - [Java](#java)
     - [C#](#.NET)
-    - [C++](#C)
+    - [C++](#c)
     - [Python](#python)
     - [Go](#go)
   - __Servers__
@@ -87,11 +87,11 @@ Cons
 
 ### HTML
 
-### CSS
+### [CSS](https://github.com/macintoshhelper/learn-css)
 
 [Getting Started with CSS](https://github.com/macintoshhelper/learn-css)
 
-#### SASS
+#### [SASS](https://github.com/macintoshhelper/learn-css/tree/master/sass)
 
 [Getting Started with SASS](https://github.com/macintoshhelper/learn-css/tree/master/sass)
 
@@ -100,7 +100,10 @@ Cons
 ## BACK-END
 Server-related technologies
 
-#### NodeJS
+#### [NodeJS](https://github.com/macintoshhelper/learn-node)
+> JavaScript on the server-side - with access to file system, network, etc
+
+[Getting Started](https://github.com/macintoshhelper/learn-hapi/)
 
 Pros
 
